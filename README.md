@@ -2,6 +2,10 @@
 
 SimpleChatMLO is an adaptation of LLOSEng's Simple Chat, from the book "Object-Oriented Software Engineering: Practical Software Development using UML and Java".
 
+### Prequisites
+* JDK 8
+* NetBeans 8.2
+
 ### New Features
 * GUI for Server and Client
 * Clients can choose a nickname while connecting
